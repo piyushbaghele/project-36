@@ -88,7 +88,7 @@ function draw() {
 
     }
 
-    if(gameSate == 2){
+    if(gameState == 2){
       textSize(50)
       text("GAME OVER",width/2,height/2)
 
